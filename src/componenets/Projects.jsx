@@ -121,7 +121,7 @@ const PortFolio = () => {
                   <img src={image}
                     className='w-[370px] h-[300px] p-6 border-[2px] justify-center items-center  border-pink-200 md:m-2'
                     alt="" />
-                  <div className='font-bold text-purple-800 text-xl flex justify-self-end'>
+                  <div className='font-bold text-purple-800 text-xl flex j'>
                     {name}
                     <div className='cursor-pointer text-blue-500 italic text-xs'>{visit}</div>
                   </div>
