@@ -23,13 +23,14 @@ const PortFolio = () => {
       image: portfolio,
       name: "Portfolio",
       info: "This is my simple yet elegant portfolio website built using React.js and Tailwind CSS. The site is fully responsive, providing a smooth user experience across all devices.",
-      visit: ""
+      visit: <a href="https://the-portfolio-phi.vercel.app/">visit</a>
     },
     {
       id: 2,
       image: bookstore,
       name: "BookStore",
       info: "This is a fully responsive bookstore website built using React.js for the front-end, MongoDB for the database, and Tailwind CSS for styling.",
+      visit: <a href="https://book-store-theta-sepia.vercel.app/">visit</a>
     },
     {
       id: 3,
