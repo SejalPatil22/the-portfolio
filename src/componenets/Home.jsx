@@ -13,7 +13,7 @@ import { FaNodeJs } from 'react-icons/fa6';
 
 import { ReactTyped } from "react-typed";
 
-import resume from "../assets/Seju22_.pdf"
+import resume from "../assets/Sejal Resume.pdf"
 
 const Home = () => {
     return (
