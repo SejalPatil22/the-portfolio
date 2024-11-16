@@ -5,7 +5,7 @@ const About = () => {
         <>
             <div name= "About" className=' max-w-screen-2xl container mx-auto px-4 md:px-20  my-20'>
                 <h1 className='text-3xl font-bold mb-5'>About</h1>
-                <p>Hello, I'm Sejal, a Passionate Web Developer with a keen eye for MERN Stack . with hands on experience on the MERN Stack Projects alnd also create a new and innoviate projexts using the mern stack.</p>
+                <p>Hello, I'm Sejal, a passionate Web Developer with a sharp focus on the MERN stack. I bring hands-on experience in building and delivering impactful MERN stack projects while continuously crafting innovative and dynamic solutions that push the boundaries of web development.</p>
                 <br />
                 <h1 className='text-purple-800 font-semibold text-xl'>Education & Training</h1><br />
                 <span>
