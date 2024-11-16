@@ -13,7 +13,7 @@ import { FaNodeJs } from 'react-icons/fa6';
 
 import { ReactTyped } from "react-typed";
 
-import resume from "../assets/sejuu resume.pdf"
+import resume from "../assets/SEJAL B PATIL.pdf"
 
 const Home = () => {
     return (
@@ -53,7 +53,7 @@ const Home = () => {
                                     </li>
 
                                     <li>
-                                        <a href="www.linkedin.com/in/sejal-patil-266b77255" target='_blank'>
+                                        <a href="linkedin.com/in/sejal-patil-266b77255" target='_blank'>
                                             <FaLinkedin className='text-2xl cursor-pointer' />
                                         </a>
                                     </li>
