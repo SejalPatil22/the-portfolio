@@ -10,7 +10,7 @@ const About = () => {
                 <h1 className='text-purple-800 font-semibold text-xl'>Education & Training</h1><br />
                 <span>
                     B. Tech in Electronics and Telecommunication Engineering
-                    Dr. Babasaheb Ambedkar Technological University, Lonere | 2021-2025</span><br /><br />
+                    Dr. Babasaheb Ambedkar Technological University, Lonere | 8.21 | 2021-2025</span><br /><br />
 
                 <span>HSC (12th)
                     Dnyandeep Junior College, Khed | 87.83% | 2019-2021</span><br /><br />
@@ -22,11 +22,15 @@ const About = () => {
                 <br />
                 <h1 className='text-purple-800 font-semibold text-xl'>Skills & Expertise </h1><br />
                 <span>
-                    Proficient in  Java, HTML, CSS, JavaScript programming languages. Strong base of Web development with a hands on experience of the MERN Stack. Also the AI/ML, CyberSecurity, Network Security, Computer Network Python(Pandas,Numpy), JAVA etc.
+                    Proficient in  Java, HTML, CSS, JavaScript programming languages. Strong base of Web development with a hands on experience of the MERN Stack. Also the AI/ML, CyberSecurity, Network Security, Computer Network, Python(Pandas,Numpy), JAVA etc.
                 </span>
                 <br />
                 <br />
                 <h1 className='text-purple-800 font-semibold text-xl'>Experience </h1><br />
+                <span>
+                    <p>Intern</p>
+                    <p>Aayaan Softech (Project Intern) | Oct 2024 - Present </p>
+                </span><br />
                 <span>
                     <p>Intern</p>
                     <p>Unifield Mentor (Full Stack Web Developement Project Intern) |Sep 2024 - Oct 2024 </p>
@@ -48,9 +52,9 @@ const About = () => {
 
                 <span className='font-semibold '>The Complete Web Developement Training Course (Infosys SpringBoard) </span> <a href="https://drive.google.com/file/d/1b4ZGlWVTjU6Aclg-fXVbPl64O4vc_u7x/view?usp=drivesdk" className='cursor-pointer text-blue-500 italic'>visit</a><br /><br />
 
-                <span className='font-semibold '>Google AI Essentials  (Cousera) </span><a href="https://coursera.org/share/4b4d635603176e8936297d08c62986bd" className='cursor-pointer text-blue-500 italic'>visit </a><br /><br />
+                <span className='font-semibold '>Google AI Essentials  (coursera) </span><a href="https://coursera.org/share/4b4d635603176e8936297d08c62986bd" className='cursor-pointer text-blue-500 italic'>visit </a><br /><br />
 
-                <span className='font-semibold '> Google CyberSecurity (Cousera)</span><a href="https://coursera.org/share/d778fe7b204b6b03ea59237506f598ae" className='cursor-pointer text-blue-500 italic'>visit </a> <br /><br />
+                <span className='font-semibold '> Google CyberSecurity (coursera)</span><a href="https://coursera.org/share/d778fe7b204b6b03ea59237506f598ae" className='cursor-pointer text-blue-500 italic'>visit </a> <br /><br />
 
                 <span className='font-semibold '>Artifical Intellligence And Machine Learning (YBI) </span><a href="https://drive.google.com/file/d/1o9h34GIoY-MFgdNMly1P_Qh2ofFFb-6e/view?usp=drivesdk" className='cursor-pointer text-blue-500 italic'>visit</a><br /><br />
 

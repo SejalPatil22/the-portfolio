@@ -28,7 +28,7 @@ const Home = () => {
                             <ReactTyped
                                 className='text-pink-800 font-bold'
 
-                                strings={["Developer", "Programmer", "Coder"]}
+                                strings={["Developer", "Programmer"]}
                                 typeSpeed={40}
                                 backSpeed={50}
                                 loop={true}
@@ -36,7 +36,7 @@ const Home = () => {
                         </div>
                         <br />
                         <p className="text-sm md:text-md text-justify">
-                            Hello i am a passionated full stack developer with a knowledge of the mern stack and also the hands on experience on the so many projects i am currently in the b tecj in final year of the electronics and telecommunication branch
+                            Hello I am a dedicated Full Stack Web Developer skilled in the MERN stack, with extensive hands-on experience in developing dynamic and user-friendly web applications. As a final-year B.Tech student in Electronics and Telecommunication Engineering, I combine academic knowledge with practical skills to deliver innovative tech solutions
                         </p>
                         <br />
                         {/* social media icons */}
@@ -47,13 +47,13 @@ const Home = () => {
                                 </h1>
                                 <ul className='flex space-x-5'>
                                     <li>
-                                        <a href="https://www.github.com/" target='_blank'>
+                                        <a href="https://github.com/SejalPatil22" target='_blank'>
                                             <FaGithub className='text-2xl cursor-pointer' />
                                         </a>
                                     </li>
 
                                     <li>
-                                        <a href="https://www.linkedin.com/" target='_blank'>
+                                        <a href="www.linkedin.com/in/sejal-patil-266b77255" target='_blank'>
                                             <FaLinkedin className='text-2xl cursor-pointer' />
                                         </a>
                                     </li>
